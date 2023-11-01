@@ -1,0 +1,18 @@
+.hero h1, .hero-d h1, .hero-c h1, .hero-i h1 {
+    font-family: 'PT Serif', serif;
+    text-transform: uppercase;
+    color: #ffffff;
+    text-align: center;
+    font-size: 3.7em;
+    text-shadow: 2px 4px 2px var(--bleuJean);
+    margin-bottom: 30px;
+}
+.hero-d h1, .hero-c h1, .hero-i h1 {
+    color: var(--bleuJean);
+    margin-top: 100px;
+    text-shadow: 2px 4px 2px #f76363;
+}
+.hero-d, .hero-c, .hero-i{
+    height: 700px;
+    padding-top: 70px;
+}
